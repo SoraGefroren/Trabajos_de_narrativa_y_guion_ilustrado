@@ -50,14 +50,6 @@ Este proyecto contiene cuatro prácticas de narrativa y guion ilustrado. En dond
 </div>
 
 </br>
-<div align="center">
-<iframe
-    frameborder="0"
-    width="560" height="315"
-    src="https://youtu.be/fmMB7imnagk"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
 
 *******
 ## Créditos
